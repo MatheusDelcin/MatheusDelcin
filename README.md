@@ -12,8 +12,8 @@
 ##
  <div>
   <a href="https://github.com/MatheusDelcin">
-  <img height="center" src="https://github-readme-stats.vercel.app/api?username=MatheusDelcin&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
-  <img height="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusDelcin&layout=compact&langs_count=7&theme=calm"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MatheusDelcin&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusDelcin&layout=compact&langs_count=7&theme=calm"/>
 </div>
   
   ##
